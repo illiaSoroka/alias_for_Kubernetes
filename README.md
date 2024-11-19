@@ -1,5 +1,7 @@
 # alias_for_Kubernetes
-
+1. vi ~/.bashrc  
+2. add list to the end of the page
+3. source ~/.bashrc 
 
 # User specific aliases and functions
     alias k='kubectl'
