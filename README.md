@@ -1,6 +1,6 @@
 # alias_for_Kubernetes
 1. Open the ~/.bashrc file in the editor:
-   vi ~/.bashrc
+   # vi ~/.bashrc
 
 3. Scroll to the end of the file using the arrow keys.
 
@@ -9,7 +9,7 @@
 5. Paste the list of aliases
 
 6. Reload the ~/.bashrc to apply the changes:
-   source ~/.bashrc
+   # source ~/.bashrc
  
 # User specific aliases and functions
     alias k='kubectl'
